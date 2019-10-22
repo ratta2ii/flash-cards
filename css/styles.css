@@ -1,0 +1,75 @@
+.javascript-p{
+  display: none;
+}
+
+.operators-p {
+  display: none;
+}
+
+.variables-p {
+  display: none;
+}
+
+.variable-name-p {
+  display: none;
+}
+
+.functions-p {
+  display: none;
+}
+
+.methods-p {
+  display: none;
+}
+
+.arguments-p {
+  display: none;
+}
+
+.parameters-p {
+  display: none;
+}
+
+.return-p {
+  display: none;
+}
+
+.chaining-methods-p{
+  display: none;
+}
+
+.strings-p {
+  display: none;
+}
+
+.booleans-p {
+  display: none;
+}
+
+.undefined-p {
+  display: none;
+}
+
+.nan-p {
+  display: none;
+}
+
+.escape-p {
+  display: none;
+}
+
+.alert-p {
+  display: none;
+}
+
+.comments-p {
+  display: none;
+}
+
+.jquery-p {
+  display: none;
+}
+
+.attributes-p {
+  display: none;
+}
